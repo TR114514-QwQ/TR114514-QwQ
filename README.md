@@ -15,7 +15,15 @@
 
 ---
 
+### 🛠️ Languages & Tools
 
+<!-- Add your own icons from devicon.dev -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="(https://github.com/devicons/devicon/raw/refs/heads/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</p>
+
+---
 
 
 ### 📊 GitHub Stats
@@ -23,3 +31,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TR114514-QwQ&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+*Last updated: 2026/07/16*
